@@ -15,7 +15,7 @@
     $pip2 install request
     $pip2 install mechanize
     $pip2 install bs4
-    $https://github.com/xN7-XD/mbf
+    $git clone https://github.com/xN7-XD/mbf
     $cd mbf
     $python2 mbfc.py
 
