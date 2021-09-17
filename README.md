@@ -25,4 +25,3 @@
     $python2 mbfc.py
 
 
-#THANKS TO ANGGA
